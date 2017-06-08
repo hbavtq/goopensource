@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "k7dj24i1Qu7rm1URfKic85+jNmQ=",
+			"path": "github.com/ThomsonReutersEikon/go-ntlm/ntlm",
+			"revision": "b00ec39bbdd04f845950f4dbb4fd0a2c3155e830",
+			"revisionTime": "2015-10-30T00:47:37Z"
+		},
+		{
+			"checksumSHA1": "me+I7kVdgomZhMQWZxRliecU2OQ=",
+			"path": "github.com/ThomsonReutersEikon/go-ntlm/ntlm/md4",
+			"revision": "b00ec39bbdd04f845950f4dbb4fd0a2c3155e830",
+			"revisionTime": "2015-10-30T00:47:37Z"
+		},
+		{
+			"checksumSHA1": "LeIyrCvM+Dbo1eDs/Sze3MJiQd0=",
+			"path": "github.com/ThomsonReutersEikon/log4go",
+			"revision": "173466d4d37ffd4ca9c400bc0b67d57b4a73cdae",
+			"revisionTime": "2015-05-11T21:30:27Z"
+		},
+		{
+			"checksumSHA1": "QiEHzm98+EwsCkRRHBw0wN9nRfE=",
+			"path": "github.com/hbavtq/go-ntlm-auth/ntlm",
+			"revision": "fc8274b597a0c034f0adf8d9487fd2c3cb74d763",
+			"revisionTime": "2017-06-01T08:56:53Z"
+		},
+		{
+			"checksumSHA1": "xAp2j8F8cVBPijlh6gdJ3B3Drtg=",
+			"path": "github.com/jbussdieker/go-ntlm-proxy",
+			"revision": "725d6d2eb06288b9a4ee7d1453b931a2cd9e2b2b",
+			"revisionTime": "2014-08-24T04:43:51Z"
+		}
+	],
+	"rootPath": "github.com/gogolok/goopensource"
+}
